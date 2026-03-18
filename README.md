@@ -1,1 +1,2 @@
-# AI-DEV-SETUP
+# ai-developer-setup
+AI Developer Reference · 2026
