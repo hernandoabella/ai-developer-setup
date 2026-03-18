@@ -345,7 +345,7 @@ const SECTIONS: Section[] = [
     ],
   },
   {
-    id:"skills", nav:"Skills", heading:"Part V — AI Skills",
+    id:"skills", nav:"Skills", heading:"Skills",
     description:"Reusable, composable capabilities that agents invoke to perform specific tasks. Each skill encodes the context, prompts, and verification logic for one type of work — separating intelligence from orchestration.",
     cards:[
       {id:"sk1",title:"Code Generation Skill",tag:"Skill",tagColor:"#16a34a",
